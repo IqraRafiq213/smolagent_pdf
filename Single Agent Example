@@ -1,3 +1,7 @@
+
+This is the simple example of using smolagent agent to chat with PDF. Local model is being used which is well supported by LiteLLm. 
+
+
 from smolagents import CodeAgent, DuckDuckGoSearchTool, WebSearchTool, LiteLLMModel
 from smolagents import tool
 from langchain_docling.loader import ExportType
